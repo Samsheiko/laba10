@@ -43,16 +43,4 @@
 
 ### Тестирование
 
-
-
-
-
-
-
-
-
-
-
-
-
-### Тестирование
+<img width="648" height="951" alt="2026-06-09 11 54 20 PM" src="https://github.com/user-attachments/assets/95b4c5b9-3c0d-47da-86ec-5bbd9f08d5bc" />
